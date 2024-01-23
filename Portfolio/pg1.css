@@ -12,3 +12,7 @@
     width: 100%;
 
 }
+.line{
+    width: auto;
+    border-top: 2px solid;
+}
