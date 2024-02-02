@@ -1,7 +1,7 @@
 body{
-    background-image:image(Portfolio/WIN_20230908_13_55_38_Pro.jpg);
+    background-image: url(Luis.jpg);
     .dropdown{
-        display: inline-block;
+        display: inline-block
     }
     nav{
         border-bottom: 1px;
