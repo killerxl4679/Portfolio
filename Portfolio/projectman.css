@@ -1,0 +1,8 @@
+body{
+    min-height: 100vh;
+    background: linear-gradient(#97b2fd,#af71d8);
+    margin:100px;
+}
+h2{
+    background-color:rgb(154, 167, 247)
+}
